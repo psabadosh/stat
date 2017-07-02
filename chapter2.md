@@ -10,21 +10,23 @@ description : описательная статистика
 *** =hint
 используйте функцию mean 
 *** =pre_exercise_code
-```{r}
+```{a <- binomial(1, 2)
+    b <- 2
+}
 
 ```
 
 *** =sample_code
-```{r}
+```{c <- mean(a, b)}
 
 ```
 
 *** =solution
-```{r}
+```{c <- mean(a, b)}
 
 ```
 
 *** =sct
-```{r}
+```{mean(a, b)}
 
 ```
