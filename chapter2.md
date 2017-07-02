@@ -12,19 +12,18 @@ description : описательная статистика
 *** =pre_exercise_code
 ```{r}
 a <- 1
-b <- 3
 
 ```
 
 *** =sample_code
 ```{r}
-c <- mean(a, b)
+a <- 1
 
 ```
 
 *** =solution
 ```{r}
-c <- mean(a, b)
+a <- 5
 
 ```
 
