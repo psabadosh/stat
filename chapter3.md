@@ -1,16 +1,25 @@
 ---
-title       : третья глава
-description : не удаляется
+title       : представление данных
+description : описательная статистика
+--- type:NormalExercise lang:r xp:100 skills:1 key:3f38ea43bc
+## Упражнение 2
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:021f38af6b
-## <<<New Exercise>>>
 
+Вычислите среднее =instructions
 
-инструкция =instructions
-
-подсказка =hint
+используйте функцию mean =hint
 
 *** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
 ```{r}
 
 ```
