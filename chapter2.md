@@ -5,10 +5,10 @@ description : описательная статистика
 ## Упражнение 1
 
 
-Вычислите среднее =instructions
-
-используйте функцию mean =hint
-
+*** =instructions
+Вычислите среднее
+*** =hint
+используйте функцию mean 
 *** =pre_exercise_code
 ```{r}
 
