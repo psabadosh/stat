@@ -30,6 +30,6 @@ c <- mean(a, b)
 
 *** =sct
 ```{r}
-3
+test_error()
 
 ```
